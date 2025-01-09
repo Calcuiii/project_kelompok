@@ -62,9 +62,9 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Purnama</td>
-                        <td>Anaking</td>
-                        <td>purnama.anaking@gmail.com</td>
+                        <td>Ronalds</td>
+                        <td>Rachman</td>
+                        <td>ronalds.rachman@gmail.com</td>
                         <td>20</td>
                         <td>
                             <div class="d-flex">
@@ -87,9 +87,9 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Adzanil</td>
-                        <td>Rachmadhi</td>
-                        <td>adzanil.rachmadhi@gmail.com</td>
+                        <td>Asyraf</td>
+                        <td>Alfarizi</td>
+                        <td>asyraf.fariz@gmail.com</td>
                         <td>25</td>
                         <td>
                             <div class="d-flex">
